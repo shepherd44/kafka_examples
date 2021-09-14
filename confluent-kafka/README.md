@@ -15,7 +15,7 @@
     ```
 
 1. connect confluent kafka Control Center
-    * http://localhost:9021
+    * [http://localhost:9021](http://localhost:9021)
 
 ## confluent stop
 
